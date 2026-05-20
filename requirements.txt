@@ -1,0 +1,7 @@
+streamlit
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.60
+langchain-groq==0.2.3
+pymysql
+sqlalchemy
